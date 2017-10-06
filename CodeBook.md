@@ -18,8 +18,8 @@ generating the **training data** and 30% the **test data.**
 With the aim the provide an easier understanding of the variables within the data set, the variables in the original data set where changed to a more descriptive
 name for the new data set. Below are the name changes done to the variables:
 * 'mean' changed to '''Mean'''
-* '''std''' changed to '''StdDev''' to describe the standard deviation.
-* '''t''' changed to '''Time'''
+* `std` changed to '''StdDev''' to describe the standard deviation.
+* ´t´ changed to '''Time'''
 * '''f''' changed to '''Frequency'''
 * '''Acc''' changed to '''Accelerometer'''
 * '''Gyro''' changed to '''Gyroscope'''
