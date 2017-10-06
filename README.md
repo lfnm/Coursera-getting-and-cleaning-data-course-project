@@ -8,10 +8,10 @@ and this is the [Original Data Set](https://d396qusza40orc.cloudfront.net/getdat
 
 ### Files
 This repositiroty contains the following files:
-1. '''README.md'''; this file summarizes the files in this repository and explains the analysis done to the data.
-2. '''CodeBook.md'''; describes the variables, the data, and any transformations performed to clean up the data.
-3. '''run_analysis.R'''; this is the R script used to create the new data set.
-4. '''tidydataset.txt'''; this is the resulting new data set.
+1. `README.md`; this file summarizes the files in this repository and explains the analysis done to the data.
+2. `CodeBook.md`; describes the variables, the data, and any transformations performed to clean up the data.
+3. `run_analysis.R`; this is the R script used to create the new data set.
+4. `tidydataset.txt`; this is the resulting new data set.
 
 ### Project Synopsis
 1. The [Original Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) collected
@@ -24,9 +24,9 @@ to connect both data sets.
 4. Once both data sets were merged into a new data set, only measurements related to mean and standard deviation were
 extracted.
 5. and variable's names were re-labeled using a more descriptive name for each variable.
-6. Finally, the new independent data set was converted into a textfile called '''tidydataset.txt''' that you can find in
+6. Finally, the new independent data set was converted into a textfile called `tidydataset.txt` that you can find in
 this repository.
 
 ### Additional Information
-For a more detailed information please refer to the '''CodeBook.md''' and the R script '''run_analysis.R''' from this
-repository
+For a more detailed information please refer to the `CodeBook.md` and the R script `run_analysis.R` from this
+repository.
