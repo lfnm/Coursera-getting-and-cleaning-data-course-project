@@ -17,7 +17,7 @@ generating the **training data** and 30% the **test data.**
 ### The Variables
 With the aim the provide an easier understanding of the variables within the data set, the variables in the original data set where changed to a more descriptive
 name for the new data set. Below are the name changes done to the variables:
-* '''mean''' changed to '''Mean'''
+* 'mean' changed to '''Mean'''
 * '''std''' changed to '''StdDev''' to describe the standard deviation.
 * '''t''' changed to '''Time'''
 * '''f''' changed to '''Frequency'''
@@ -28,8 +28,8 @@ name for the new data set. Below are the name changes done to the variables:
 
 ### Data Transformation
 
-In order the *merge* both data subsets *(training and test data sets)*, common variables names were created in both data subsets, '''activityid''' and '''subjectid'''. 
-From this new merged data, *only the measurements for the mean and standard deviations are extracted*, creating the final data set.
+In order the **merge** both data subsets **(training and test data sets)**, common variables names were created in both data subsets, '''activityid''' and '''subjectid'''. 
+From this new merged data, **only the measurements for the mean and standard deviations are extracted**, creating the final data set.
 
 From this final data set, the names of the variables are then changed to a more descriptive name to make the varaibles self explanatories and make it easier when
 reading the data set. The final tidy data set can be found in this repository under '''finaltidydataset.txt'''
